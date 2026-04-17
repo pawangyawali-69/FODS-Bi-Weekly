@@ -1,0 +1,4 @@
+1
+Chicken Curry
+Chicken,onion,garlic,ginger,tomatoes,green chilies,yogurt,oil,turmeric powder,cumin powder,coriander powder,garam masala,red chili powder,salt,fresh coriander leaves
+Heat oil, sauté onions until golden, add garlic and ginger, cook, add tomatoes and soften, mix in spices, cook briefly, add chicken and brown, stir in yogurt, cover and cook until tender, add water if needed, finish with garam masala and salt, simmer, garnish with fresh coriander and serve hot
